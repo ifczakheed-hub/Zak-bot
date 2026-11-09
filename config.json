@@ -16,7 +16,7 @@
   "notify_threshold": 4,
   "banned_threshold": 5,
   "blocks": ["994", "91", "92"],
-  "evaluate_chars": [">=", "~>"],
+  "evaluate_chars": [">=", "->"],
   "pairing": {
     "state": true,
     "number": 254796854009,
@@ -24,3 +24,4 @@
     "version": [2, 3000, 1053100174],
     "code": "ZAKBOT"
   }
+}
